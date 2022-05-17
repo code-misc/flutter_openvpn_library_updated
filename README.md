@@ -1,3 +1,7 @@
+# 注意！！！
+
+https://github.com/code-misc/flutter_openvpn 的 master 分支依赖于 https://github.com/code-misc/flutter_openvpn_library_updated 的 3361996fa1 分支.
+
 # Cake-VPN
 Android VPN app based on OpenVPN library.
 
